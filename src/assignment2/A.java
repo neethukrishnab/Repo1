@@ -1,4 +1,5 @@
 package assignment2;
+//abc
 
 public interface A {
 	int a=10;
